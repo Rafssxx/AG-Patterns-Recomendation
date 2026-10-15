@@ -1,2 +1,2 @@
 # AG-Patterns-Recomendation
-Agente contruido em langchain para analise de codebases construidas na arquitetura mvc e recomendações de aplicações de padrões de projetos
+Agente construido em langchain para analise de codebases na arquitetura mvc para recomendações de aplicações de padrões de projetos
